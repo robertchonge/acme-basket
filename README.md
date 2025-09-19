@@ -1,4 +1,4 @@
-# Welcome to the 🛒 Acme Basket
+# Welcome to the 🛒 Acme Basket Project
 
 A proof-of-concept shopping basket for Acme Widget Co, written in Node.js + TypeScript.
 
