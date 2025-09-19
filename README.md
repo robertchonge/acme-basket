@@ -16,6 +16,8 @@ A proof-of-concept shopping basket for Acme Widget Co, written in Node.js + Type
 
 bash
 git clone <https://github.com/robertchonge/acme-basket>
+
 cd acme-basket
+
 npm install
 
